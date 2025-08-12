@@ -137,6 +137,8 @@ Q=3
    <h1>  relative position </h1>
 
      <div class= "main2">
+
+     
   
           <div class=" box box3"> box3 </div>
 
@@ -201,6 +203,78 @@ STYLE=
   left: 40px;
 }
 
+Q= 3
+
+<!DOCTYPE>
+ <HTML>
+
+   <head>
+
+            <title>  3 question </title>
+
+   </head>
+    <link rel="stylesheet" href=" 7 assignment 3.css">
+
+    <body>
+
+      
+        <div class="main"> 
+
+          
+            <div class="image">
+
+             
+           </div>
+
+           <div class="text"> 
+          
+                 <h3> The Earth</h3>
+
+               <p> The "Earth theory" can refer to a few different concepts: (1) Geological Theory (James Hutton's
+                   "Theory of the Earth"), (2) theories about Earth's formation, or (3) the Flat Earth theory. Hutton's
+                   work laid the foundation for modern geology by proposing that natural forces acting over long periods 
+                   shaped the Earth. Theories about Earth's formation, like the core accretion model, explain how our planet      
+                   coalesced from a solar nebula. Finally, the Flat Earth theory is a pseudoscientific belief that Earth is not 
+                   a sphere, but a flat plane, which is contradicted by scientific evidence.The "Earth theory" can refer to a few different concepts: (1) Geological Theory (James Hutton's
+                   "Theory of the Earth"), (2) theories about Earth's formation, or (3) the Flat Earth theory. Hutton's
+                   work laid the foundation for modern geology by proposing that natural forces acting over long periods 
+                   shaped the Earth. Theories about Earth's formation, like the core accretion model, explain how our planet      
+                   coalesced from a solar nebula. Finally, the Flat Earth theory is a pseudoscientific belief that Earth is not 
+                   a sphere, but a flat plane, which is contradicted by scientific evidence.The "Earth theory" can refer to a few different concepts: (1) Geological Theory (James Hutton's
+                   "Theory of the Earth"), (2) theories about Earth's formation, or (3) the Flat Earth theory. Hutton's
+                   work laid the foundation for modern geology by proposing that natural forces acting over long periods 
+                   shaped the Earth. Theories about Earth's formation, like the core accretion model, explain how our planet      
+                   coalesced from a solar nebula. Finally, the Flat Earth theory is a pseudoscientific belief that Earth is not 
+                   a sphere, but a flat plane, which is contradicted by scientific evidence.  </p>
+
+           </div>
+
+
+
+
+
+       </div>  
+   </body>
+ </HTML>
+
+ style=
+ .main{  
+
+  border: solid 2px black;
+  height: 400px;
+   
+
+.image{
+
+   border: solid 2px black;
+   height: 380px;
+   width: 500px;
+   background-image: url("https://thumbs.dreamstime.com/b/earth-moon-view-space-night-europe-46110305.jpg");
+   background-size: cover;
+   float: right;
+   margin-top: 10px;
+   margin-right:10px;
+}
 
 
 
