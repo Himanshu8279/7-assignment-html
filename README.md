@@ -277,7 +277,120 @@ Q= 3
 }
 
 
+q-4 
 
+
+<!DOCTYPE>
+
+  <HTML>
+   
+    <head>
+
+      <title>  4 question    </title>
+
+    </head>
+
+    <link rel="stylesheet" href="7 assignment 4.css">
+
+    <body>
+
+           
+             
+          <div class="navbar">
+     
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">Contact</a>
+
+            </div>
+
+          
+  
+             <div class="body-part">
+
+               <div class="section">Section 1</div>
+               <div class="section">Section 2</div>
+               <div class="section">Section 3</div>
+               <div class="section">Section 4</div>
+         
+               </div>
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+      
+
+               </body>
+             </HTML>
+
+style=
+
+
+
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+header{
+
+  position: sticky;
+
+}
+
+
+
+.navbar{
+   
+    position: fixed;
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    
+
+   
+}
+
+.navbar a{
+
+   color: white;
+   font-size: 18px;
+ }
+     
+
+.body-part{
+
+       padding: 20px;
+
+}
+.section{
+
+height: 200px;
+border: solid 2px black;
+
+
+}
+
+
+
+
+
+
+
+             
 
 
 
