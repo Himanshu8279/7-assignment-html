@@ -106,6 +106,103 @@ text-align: center;
 
 }
 
+Q=3
+
+<!DOCTYPE>
+   <HTML>
+     
+       <HEAD>
+
+         <TITLE> 2 QUESTION     </TITLE>
+
+      </HEAD>
+
+     <link rel="stylesheet" href=" 7 assignment 2.css ">
+
+   <BODY>
+
+      <h1>  absolute position</h1>
+
+
+           <div class="main">
+       
+                  <div class=" box box1 "> box1 </div>
+   
+
+
+                  <div class=" box box2 "> box2 </div>
+          </div>
+  
+
+   <h1>  relative position </h1>
+
+     <div class= "main2">
+  
+          <div class=" box box3"> box3 </div>
+
+          <div class="box box4"> box4 </div>
+          <div class="box box5"> box5 </div>
+
+    
+     </div>
+
+
+
+     </BODY>
+  </HTML>
+
+STYLE= 
+
+.main{
+
+  border: solid 2px black;
+  display: flex;
+  height: 400px;
+  width: 600px;
+
+
+}
+
+
+
+
+.box{
+
+     border: solid 2px black;
+     height: 200px;
+     width : 200px;
+     background-color: green;
+     
+}
+
+.box2{
+
+  position: absolute;
+  top: 100px;
+  left: 40px;
+
+
+}
+
+
+.main2{
+
+  border: solid 2px black;
+  display: flex;
+  height: 400px;
+  width: 700px;
+
+}
+
+.box4{
+
+  position: relative;
+  top: 20px;
+  left: 40px;
+}
+
+
+
 
 
 
