@@ -384,7 +384,53 @@ border: solid 2px black;
 
 }
 
+q=5 
 
+   <!DOCTYPE html>
+
+<head>
+  
+  <title>Z-Index Example</title>
+  
+  <link rel="stylesheet" href="7 assignment 5.css"> 
+ 
+</head>
+<body>
+
+  <div class="box box1">Box 1</div>
+  <div class="box box2">Box 2</div>
+  <div class="box box3">Box 3</div>
+
+</body>
+</html>
+
+style=
+
+   .box {
+      width: 150px;
+      height: 150px;
+      position: absolute;
+    }
+
+    .box1 {
+      background-color: red;
+      top: 40px;
+      left: 40px;
+      z-index: 1;
+    }
+
+    .box2 {
+      background-color: blue;
+      top: 80px;
+      left: 80px;
+      z-index: 2;
+    }
+
+    .box3 {
+      background-color: green;
+      top: 120px;
+      left: 120px;
+      z-index: 0;
 
 
 
